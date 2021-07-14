@@ -1,4 +1,4 @@
-# Project- Computer Graphics #
+# Project- Graphical Scenerio #
 
 Process:
 
